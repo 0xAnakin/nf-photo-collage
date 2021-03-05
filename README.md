@@ -57,3 +57,7 @@ createCollage(options)
 
 #### Result
 ![Result](https://github.com/classdojo/photo-collage/blob/master/img/result_no_spacing.png?raw=true)
+
+#### Notes
+
+I'm not the original owner, I just uploaded to git [nf-photo-collage](https://www.npmjs.com/package/nf-photo-collage)
