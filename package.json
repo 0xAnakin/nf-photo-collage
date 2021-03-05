@@ -1,0 +1,75 @@
+{
+  "_from": "nf-photo-collage",
+  "_id": "nf-photo-collage@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-oi70MRvGRD73YVM09GMCUSVnfPc1P7yOzJZqk6NtQwPVlcLXsRnYh6zLgUOsLfALmBuHnivl30MaJLwtwOGUQw==",
+  "_location": "/nf-photo-collage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nf-photo-collage",
+    "name": "nf-photo-collage",
+    "escapedName": "nf-photo-collage",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nf-photo-collage/-/nf-photo-collage-1.4.0.tgz",
+  "_shasum": "d4e42d1adbc7aa0182cfaadc9b30906c3a9185e8",
+  "_spec": "nf-photo-collage",
+  "_where": "D:\\Development\\lab\\javascript\\crypto-machines-tiles",
+  "author": {
+    "name": "Peter Hayes"
+  },
+  "bugs": {
+    "url": "https://github.com/NodeFactoryIo/photo-collage/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Mak Muftic"
+    }
+  ],
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "canvas": "^2.6.1",
+    "request": "^2.72.0"
+  },
+  "deprecated": false,
+  "description": "Turns an array of images into a photo collage",
+  "devDependencies": {
+    "buffer-equal": "^1.0.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.4.5"
+  },
+  "homepage": "https://github.com/NodeFactoryIo/photo-collage#readme",
+  "keywords": [
+    "photo",
+    "image",
+    "mosaic",
+    "collage",
+    "canvas",
+    "tile"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "nf-photo-collage",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeFactoryIo/photo-collage.git"
+  },
+  "scripts": {
+    "test": "mocha test.js --timeout 10000"
+  },
+  "types": "index.d.ts",
+  "version": "1.4.0"
+}
